@@ -126,5 +126,9 @@ NetEdit 通过策略配置与执行解耦，在数据中心复杂环境中实现
 ---
 
 > 📎 原文链接：[https://blog.apnic.net/2025/06/05/building-netedit-managing-ebpf-programs-at-scale-at-meta](https://blog.apnic.net/2025/06/05/building-netedit-managing-ebpf-programs-at-scale-at-meta/?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--7rZ9I2o4fXp5AAF8geocFFUNBYylLPmjGJYDxXN6iNVcXEfNSUW1xxXPlAJG_ax73Q70Y)
+> 
+---
+
+> 📎 论文链接：[NetEdit: An Orchestration Platform for eBPF Network Functions at Scale](https://dl.acm.org/doi/pdf/10.1145/3651890.3672227)
 
 > 📌 本文由社区爱好者翻译，内容版权归原作者与 APNIC 所有，若有侵权请联系删除。仅用于技术学习与传播。
